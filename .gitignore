@@ -1,2 +1,5 @@
 pokeagent_env
 data
+
+#ignore DS_Store
+.DS_Store
